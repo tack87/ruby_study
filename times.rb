@@ -5,3 +5,8 @@
 50.times {
 	print "waaaaaaaaaaaaaaaa.\n"
 }
+
+50.times {
+	print "もしもしもしもし.\n"
+}
+
